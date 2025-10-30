@@ -1,0 +1,15 @@
+{
+  "name": "MindBrew Light",
+  "short_name": "MindBrew",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#6A915A",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
