@@ -19,9 +19,9 @@ const Contact = () => {
               <MapPin className="mx-auto mb-4 h-8 w-8 text-primary" />
               <h3 className="mb-2 font-bold text-foreground">Location</h3>
               <p className="text-sm text-muted-foreground">
-                45 South Great George's Street
+                St. Stephen's Green
                 <br />
-                Dublin, D02 X407
+                Dublin 2
               </p>
             </div>
 
@@ -53,7 +53,7 @@ const Contact = () => {
           <Button
             size="lg"
             className="rounded-full bg-primary px-10 py-6 text-lg text-primary-foreground shadow-lg transition-all duration-300 hover:scale-105 hover:bg-primary-light hover:shadow-xl"
-            onClick={() => window.open('https://maps.google.com', '_blank')}
+            onClick={() => window.open('https://maps.app.goo.gl/9QeLyvRYdovgALvP7', '_blank')}
           >
             Get Directions
           </Button>

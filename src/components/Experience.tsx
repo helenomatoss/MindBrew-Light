@@ -25,12 +25,12 @@ const Experience = () => {
             </h2>
             <div className="space-y-6 text-lg leading-relaxed text-foreground">
               <p>
-                Step into a space designed for your well-being. Enjoy your favorite drink while
-                benefiting from gentle, therapeutic lighting that mimics natural sunlight.
+                Step into a space designed for your well-being.
+                Enjoy your favourite drink as you experience light therapy for the first time.
               </p>
               <p>
-                Whether you're working, reading, or simply taking a moment for yourself, MindBrew
-                Light offers the perfect environment to boost your mood and energy.
+                Whether you’re working, reading, or simply taking a moment for yourself, 
+                MindBrew Light offers the perfect environment to boost your mood and energy.
               </p>
 
               {/* Scientific Benefit Note */}
@@ -42,8 +42,7 @@ const Experience = () => {
                   <div>
                     <h3 className="mb-2 font-bold text-accent">Scientific Benefit</h3>
                     <p className="text-foreground">
-                      Light therapy is clinically proven to improve mood, energy levels, and focus —
-                      particularly beneficial during darker months.
+                      Light therapy is clinically proven to improve mood, energy levels, and focus.
                     </p>
                   </div>
                 </div>

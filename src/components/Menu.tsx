@@ -1,18 +1,18 @@
 const Menu = () => {
   const drinks = [
     {
-      name: 'Sunrise Latte',
-      description: 'Smooth espresso with vanilla and golden honey notes',
+      name: 'Matcha Latte',
+      description: 'Green tea powder blended with steamed milk',
       price: '€4.50',
     },
     {
-      name: 'Golden Brew',
-      description: 'Rich pour-over with hints of caramel and nuts',
-      price: '€4.20',
+      name: 'Honey Latte',
+      description: 'Espresso sweetened with natural honey',
+      price: '€4.50',
     },
     {
-      name: 'Energize Espresso',
-      description: 'Bold double shot to brighten your day',
+      name: 'Chamomile Tea',
+      description: 'Calming herbal infusion',
       price: '€3.80',
     },
   ];
